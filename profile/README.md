@@ -1,7 +1,7 @@
 <h1>
 <p align="center">
   <a href="https://github.com/culturecode-org">
-    <img src="https://avatars.githubusercontent.com/u/213224329?s=200&v=4" alt="Logo" width="128">
+    <img src="https://raw.githubusercontent.com/culturecode-org/.github/refs/heads/main/images/banner-profile.png" alt="Logo">
   </a>
   <br>culturecode
 </h1>
